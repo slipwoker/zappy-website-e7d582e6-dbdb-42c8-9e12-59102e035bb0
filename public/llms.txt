@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+A stunning astronomy website with a focus on the beauty and wonder of the universe. The project aims to create a visually impressive digital experience centered
+
+### תכונות
+https://example.com/features
+תכונות | אסטרוסלופ. אסטרונומיה לילדים בישראל
+
+### אודות
+https://example.com/about
+אודות | אסטרוסלופ. אסטרונומיה לילדים בישראל
+
+### צור קשר
+https://example.com/contact
+צור קשר | אסטרוסלופ. אסטרונומיה לילדים בישראל
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
